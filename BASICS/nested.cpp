@@ -14,5 +14,6 @@ cout << b;
 }
 else{
 cout << c;
+}
 return 0;
 }
